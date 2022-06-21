@@ -7,7 +7,7 @@
 
 
 Define this thing as a <strong>ClientQuarter</strong><br>
-![ClientQuarter](/home/michael/Documents/client.jpg)
+![ClientQuarter](https://user-images.githubusercontent.com/104752620/174843131-bd5022fb-d584-42fb-afdf-944b0c165e65.jpg)
 <br><br>
 
 
